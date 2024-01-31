@@ -11,8 +11,9 @@ Detroit Pistons,Little Caesars Arena,2645 Woodward Ave, Detroit, MI 48201
 Golden State Warriors,Chase Center,1 Warriors Way, San Francisco, CA 94158"""
 
 # 1. Given the data above, turn it into a CSV that can be saved/opened locally
+# Hint: The data above has something related to the address that needs to be fixed
 
 # 2. After completing the above, add columns to the CSV that show the coordinates of the arena addresses
 
-# 3. Add a column to the csv that checks if any of the addresses are within 
+# 3. Super Mega Bonus: Add a column to the csv that checks if any of the addresses are within 
 # 100 miles of 37.768149757128626, -122.38786647116393
