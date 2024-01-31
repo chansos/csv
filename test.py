@@ -1,5 +1,3 @@
-import csv
-
 data = """Team,Arena,Address
 Atlanta Hawks,State Farm Arena,1 State Farm Drive, Atlanta, GA 30303
 Boston Celtics,TD Garden,100 Legends Way, Boston, MA 02114
